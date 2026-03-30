@@ -5,6 +5,12 @@
       "allowedRoles": [
         "member"
       ]
+    },
+    {
+      "route": "/",
+      "allowedRoles": [
+        "member"
+      ]
     }
   ]
 }
